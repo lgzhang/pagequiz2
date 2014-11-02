@@ -1,0 +1,22 @@
+﻿{
+  "title":"随堂训练",
+  "choices": [{
+      "question": "1．（B层次）关于向心力的下列说法中正确的是（    ）",
+      "answers": ["A．做匀速圆周运动的物体的向心力是恒力", 
+                  "B．向心力是指向圆心方向的合外力，它是根据力的性质命名的", 
+                  "C．向心力可以是重力、弹力、摩擦力等各种力的合力，也可以是某种力的分力",
+                  "D．向心力只能改变物体的运动方向，不可能改变运动的快慢"],
+      "correctAnswer": "3 4",
+      "details": "解析：向心力方向时刻变化，是变力；向心力可由诸多性质力构成，所以是效果力．向心力总垂直于速度，故只能改变物体的运动方向，不可能改变运动的快慢．"
+    },
+    {
+      "question": "2.（B层次）如图，三个轮的半径分别为2r、4r、r，在皮带不打滑的情况下，图中a、b、c三点的角速度之比、线速度之比、向心加速度之比，下列表达式不正确的是（ ）<div class='baguetteBoxOne imgback center-pic' style='width: 160px'><img src='books/physics/images/quiz/quiz-28-1.png' style='width: 140px'></div>",
+      "answers": ["A．ω<sub>a</sub>∶ω<sub>b</sub>∶ω<sub>c</sub>=1∶1∶2",
+      			  "B．υ<sub>a</sub>∶υ<sub>b</sub>∶υ<sub>c</sub>=1∶2∶1", 
+      			  "C．a<sub>a</sub>∶a<sub>b</sub>∶a<sub>c</sub>=2∶4∶1", 
+      			  "D．a<sub>a</sub>∶a<sub>b</sub>∶a<sub>c</sub>=1∶2∶2"],
+      "correctAnswer": "3",
+      "details": "解析：a、c两点线速度大小相等，由ω=知ω<sub>a</sub>∶ω<sub>c</sub>=1∶2；a、b两点同轴，角速度相等，由υ=ωr知υ<sub>a</sub>∶υ<sub>b</sub>=1∶2，以上二式归纳得：ω<sub>a</sub>∶ω<sub>b</sub>∶ω<sub>c</sub>=1∶1∶2；υ<sub>a</sub>∶υ<sub>b</sub>∶υ<sub>c</sub>=1∶2∶1．由a=υω得a<sub>a</sub>∶a<sub>b</sub>∶a<sub>c</sub>=1∶2∶2．"
+    }
+  ]
+}

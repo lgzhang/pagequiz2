@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "<p>【经典互动3】（B层次）如图，<i>x</i>轴在水平地面内，<i>y</i>轴沿竖直方向．图中画出了从<i>y</i>轴上沿<i>x</i>轴正向抛出的三个小球<i>a</i>、<i>b</i>和<i>c</i>的运动轨迹，其中<i>b</i>和<i>c</i>是从同一点抛出的，不计空气阻力，则（　　）</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/22-3.jpg' style='width: 240px'></div>",
+      "answers":["A．<i>a</i>的飞行时间比<i>b</i>的长", 
+                  "B．<i>b</i>和<i>c</i>的飞行时间相同", 
+                  "C．<i>a</i>的水平速度比<i>b</i>的小", 
+                  "D．<i>b</i>的初速度比<i>c</i>的大"],
+      "correctAnswer": "1 2",
+      "details": "<p>答案：BD</p><p>解析：由${t = \\sqrt {\\dfrac{{2H}}{g}} }$知，平抛越高物体的飞行时间越长，A选项错误，B选项正确；由${\\upsilon  = L\\sqrt {\\dfrac{g}{{2H}}} }$知，平抛越高，水平位移越大，物体平抛的速度越大，C选项错误，D选项正确．</p>",
+      "summary": ""
+    }
+  ]
+}

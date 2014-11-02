@@ -1,0 +1,14 @@
+﻿{
+  "title": "随堂训练",
+  "choices": [{
+    "question": "1．（B层次）2010年在广州亚运会中，中国蹦床名将黄珊汕蝉联亚运金牌，如图所示，从黄珊汕离开蹦床瞬间开始可看作竖直上抛运动（　　）<div class='imgback baguetteBoxOne right-pic' style='width:160px'><img src='books/physics/images/pages/11-1.jpg' style='width: 140px'></div>",
+    "answers": [
+      "A．到达最高点时速度为零，加速度也为零 ",
+      "B．到达最高点时速度为零，加速度不为零",
+      "C．上升过程与下落过程平均速度相同",
+      "D．当它回到蹦床时的速度与刚跳起时的速度相同"
+    ],
+    "correctAnswer": "2",
+    "details": "解析：黄珊汕在最高点速度为零，仅受重力作用，故加速度为重力加速度，Ａ错Ｂ正确；在上升过程与下降过程，速度（或平均速度）的方向不同，故CD项错误．"
+  }]
+}

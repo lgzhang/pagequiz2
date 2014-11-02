@@ -1,0 +1,7 @@
+﻿{
+  "fillblank": [{
+      "question": "<p>【经典互动1】（B层次）如图甲，起重机将货物沿竖直方向匀加速吊起，同时又沿横梁水平匀速向右运动．此时，站在地面上观察，货物运动的轨迹可能是图乙中的哪一个？（　　）</p><div class='imgback baguetteBoxOne center-pic' style='width:560px'><img src='books/physics/images/pages/22-1.jpg' style='width: 540px'></div>",
+      "correctAnswer": ["C<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;解析：物体在水平方向上做匀速向右运动，竖直方向上向上做匀加速直线运动，则其合运动为曲线运动，而曲线要向加速度一侧弯曲，故Ｃ选项正确．"]
+    }
+  ]
+}

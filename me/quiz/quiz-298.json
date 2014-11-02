@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例1】（Ｂ层次）如图所示，地面上的<i>A</i>、<i>B</i>两个事件同时发生，对于坐在火箭中沿两个事件发生地点连线飞行的人来说，哪个事件先发生?<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/102-1.jpg' style='width: 240px'></div><br/>【思路剖析】<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/103-1.jpg' style='width: 240px'></div>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "【解析】可以设想，在事件<i>A</i>发生时<i>A</i>处发出一个闪光，事件<i>B</i>发生时<i>B</i>处发出一个闪光．“两闪光相遇”作为一个事件，发生在线段<i>A</i><i>B</i>的中点，这在不同参考系中看都是一样的．“相遇在中点”这个现象在地面系中很容易解释：两个闪光同时发出，两个闪光传播的速度又一样，当然在线段的中点相遇．火箭上的人则有如下推理:地面在向火箭的方向运动，从闪光发生到两闪光相遇，线段中点向火箭的方向运动了一段距离，因此闪光<i>B</i>传播的距离比闪光<i>A</i>长些．既然两个闪光的光速相同，一定是闪光<i>B</i>发出得早一些．<br/>【答案】对于坐在火箭中沿两个事件发生地点连线飞行的人来说，<i>B</i>事件比<i>A</i>事件先发生．",
+      "summary": ""
+    }
+  ]
+}

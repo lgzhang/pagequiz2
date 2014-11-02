@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例1：（A层次）如图所示，飞机以360km/h的速度与水平方向成37<sup>o</sup>角斜向上匀速飞行，已知sin37<sup>o</sup>=0.6，cos37<sup>o</sup>=0.8.求水平方向的分速度<i>υ</i><sub><i>x</i></sub>和竖直方向的分速度<i>υ</i><sub><i>y</i></sub>（要求用m/s作单位）．</p><div class='imgback baguetteBoxOne center-pic' style='width: 220px'><img src='books/physics/images/pages/5-1.jpg' style='width: 200px'>",
+      "answers": [],
+      "correctAnswer": "1",
+      "details": "答案：80m/s；60m/s.<br/>解析：飞机的速度 <i>υ</i>=360 km/h=100m/s<br/>${{\\upsilon _x} = \\upsilon \\cos {37^o} = 80m/s}$<br/>${{\\upsilon _y} = \\upsilon \\sin {37^o} = 60m/s}$",
+      "summary": "小结：思路是：实际速度斜向上按平行四边形定则分解为水平方向和竖直方向的分速度，再利用三角函数求解．<div class='videoContainer' style='width:400px; height: 210px'><video preload='auto' src='books/physics/video/7分析提升重物、飞机爬升、船过河的运动.mp4'/></video><div class='poster'><img src='books/physics/video/7分析提升重物、飞机爬升、船过河的运动.jpg'/></div><div class='btnPlay'></div><div class='text'>分析提升重物、飞机爬升、船过河的运动</div></div>"
+    }
+  ]
+}

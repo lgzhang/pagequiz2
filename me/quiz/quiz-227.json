@@ -1,0 +1,13 @@
+{
+  "title":"随堂训练",
+  "example": [
+    {
+      "question": "3．（B层次）如图，荡秋千是一种常见的娱乐休闲活动，也是我国民族运动会上的比赛项目．若秋千的质量m=50kg，秋千绳的长度为l=3.6m，荡到最高点时秋千绳与竖直方向成θ=60o，忽略空气阻力，g取10m/s2，求荡到最低点时秋千的速度υ及绳子秋千的拉力Tm．<img src='books/physics/images/quiz/quiz-71-c-3.png'>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "解答：摆动过程对秋千受力分析如图所示．在下摆过程中绳中拉力始终与速度方向垂直，对秋千不做功，做功的只有重力，故秋千摆动过程中机械能守恒．设秋千摆动到最低点时的重力势能为零，由机械能守恒定律得：\\(mgl(1 - \\cos \theta ) = \\dfrac{1}{2}m{\\upsilon ^2}\\)<br/>得：\\(\\upsilon  = \\sqrt {2gl(1 - \\cos \\theta )}  = 6m/s\\)<br/>在最低点，根据牛顿第二定律，有：\\({T_m} - mg = m \\cdot \\dfrac{{{\\upsilon ^2}}}{l}\\)<br/>得：\\({T_m} = mg + m \\cdot \\dfrac{{{\\upsilon ^2}}}{l} = 1000N\\)<div class='flash center-pic'><flash src='books/physics/flash/gzWLdh0258单摆振动过程中的机械能守恒.swf' width='376px' height='222px'></flash><span>单摆振动过程中的机械能守恒</span><div>",
+      "summary":""
+    }
+  ]
+
+}

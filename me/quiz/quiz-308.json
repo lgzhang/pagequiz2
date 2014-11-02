@@ -1,0 +1,12 @@
+{
+  "title": "例题",
+  "example": [{
+    "question": "【例１】（B层次）光电效应实验的装置如图所示，紫光照射锌，后发生光电效效应，则下面说法中正确的是（　）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/106-1.jpg' style='width: 240px'></div><br/>【思路剖析】<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/106-2.jpg' style='width: 240px'></div>",
+    "answers": ["A．用其它金属材料更换锌板，验电器指针也会发生偏转",
+      "B．用红色光照射锌板，验电器指针会发生偏转", "C．锌板带的是负电荷", "D．使验电器指针发生偏转的是正电荷"
+    ],
+    "correctAnswer": "4",
+    "details": "【解析】此实验中紫光照射锌，后发生光电效效应，由于红光的光子能量小于紫光，因此，可能不会发生光电效应现象，同时，发生光电效应的极限频率还与材料有关．另外，锌板发射光电子后也会带电．<br/>【答案】D",
+    "summary": ""
+  }]
+}

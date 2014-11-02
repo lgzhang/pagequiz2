@@ -1,0 +1,10 @@
+﻿{
+  "title":"随堂训练",
+  "counting": [
+    {
+    	"question": "3．（C层次）如图，长为L的细线，系一质量为m的小球，悬挂在天花板上的O点，让其在水平面内做匀速圆周运动（即做圆锥摆运动），当摆线L与竖直方向的夹角是θ时，求：<div class='imgback baguetteBoxOne right-pic' style='width:200px'><img src='books/physics/images/quiz/quiz-28-2.png' style='width: 180px'> </div><br>（1）线的拉力F的大小；<br>（2）小球运动的线速度的大小；<br>（3）小球运动的角速度和周期．",
+    	"correctAnswer": "解析：做匀速圆周运动的小球受力如图所示．小球受重力mg和绳子的拉力F．因为小球在水平面内做匀速圆周运动，所以小球受到的合力指向圆心Oꞌ，且是水平方向．<div class='imgback baguetteBoxOne right-pic' style='width:200px'><img src='books/physics/images/quiz/quiz-28-3.png' style='width: 180px'></div> <br>（1）由平行四边形定则得：小球受到的合力大小为\\(mg\\tan \\theta \\)，线对小球的拉力大小为\\(F = \\dfrac{{mg}}{{\\cos \\theta }}\\)〈br>（2）由牛顿第二定律得：\\(mg\\tan \\theta  = m\\dfrac{{{\\upsilon ^2}}}{r}\\)，由几何关系得\\(r = L\\sin \\theta \\)<所以小球做匀速圆周运动的线速度大小为\\(\\upsilon  = \\sqrt {gL\\tan \\theta \\sin \\theta } \\)<br>所以小球做匀速圆周运动的线速度大小为\\(\\upsilon  = \\sqrt {gL\\tan \\theta \\sin \\theta } \\)<br>（3）小球运动的角速度\\(\\omega  = \\dfrac{\\upsilon }{r} = \\dfrac{{\\sqrt {gL\\tan \\theta \\sin \\theta } }}{{L\\sin \\theta }} = \\sqrt {\\dfrac{g}{{L\\cos \\theta }}} \\)<br>小球运动的周期\\(T = \\dfrac{{2\\pi }}{\\omega } = 2\\pi \\sqrt {\\dfrac{{L\\cos \\theta }}{g}} \\)",
+		"details": ""    
+    }
+  ]
+}

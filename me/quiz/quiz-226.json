@@ -1,0 +1,21 @@
+﻿{
+  "title":"随堂训练",
+  "choices": [{
+    "question": "1．（B层次）如图，木块均在固定的斜面上运动，其中图A、B、C中的斜面是光滑的，图D中的斜面是粗糙的，图A、B中的F为木块所受的外力，方向如图中箭头所示，图A、B、D中的木块向下运动，图C中的木块向上运动，则运动过程中机械能守恒的是图（    ）<div class='imgback baguetteBoxOne right-pic' style='width: 320px'> <img src='books/physics/images/quiz/quiz-71-c-1.png' style='width: 300px'></div>",
+      "answers": ["A. 图A","B. 图B","C. 图C","D. 图D"],
+      "correctAnswer": "3",
+      "details": "解析：因图A、B中有外力做功，所以机械能不守恒，选项A、B错误；图D中有摩擦力做功，机械能减少，图C中只有系统内的重力做功，故机械能守恒．"
+    },
+
+    {
+      "question": "2．（B层次）如图，在水平台面上的A点，一个质量为m的物体以初速度υ<sub>0</sub>被抛出，不计空气阻力，则它到达B点时速度的大小是（　　）<div class='imgback baguetteBoxOne right-pic' style='width: 220px'><img src='books/physics/images/quiz/quiz-71-c-2.png' style='width: 200px'></div>",
+      "answers": ["A．\\({\\upsilon _0} +\\sqrt {2gh}\\)", 
+      "B．\\(\\sqrt {\\upsilon _0^2 + 2gh} \\)", 
+      "C．\\(\\sqrt {2gh} \\)",
+       "D．\\(\\sqrt {\\upsilon _0^2 - 2gh} \\)"],
+      "correctAnswer": "2",
+       "details": "　解析：物体抛出后运动过程中只受重力作用，机械能守恒，选地面为参考面，则\\(mgH + \\dfrac{1}{2}m\\upsilon _0^2 = mg(H - h) + \\dfrac{1}{2}m\\upsilon _0^2\\)，解得\\({\\upsilon _B} = \\sqrt {\\upsilon _0^2 + 2gh} \\)；如果此题选择抛出点为零势能面，可以简化列式为：\\(0 + \\dfrac{1}{2}m\\upsilon _0^2 =  - mgh + \\dfrac{1}{2}m\\upsilon _B^2\\)，解得\\({\\upsilon _B} = \\sqrt {\\upsilon _0^2 + 2gh} \\)．"
+    }
+  ]
+
+}

@@ -1,0 +1,12 @@
+﻿{
+  "title":"随堂训练",
+  "example": [
+    {
+      "question": "<p>例2：（C层次）如图所示，将火炮以速度<i>υ</i><sub>0</sub>=100m/s、方向与水平方向成37<sup>o</sup>发射，把火炮视为质点，不计空气阻力，sin37<sup>o</sup>=0.6，cos37<sup>o</sup>=0.8，<i>g</i>=10m/s<sup>2</sup>，则火炮上升的最大高度可达多少米？射程可达多少米？</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/19-2.jpg' style='width: 240px'></div>",
+      "answers":[],
+      "correctAnswer": "",
+      "details": "<p>答案：320m；960m</p><p>解析：火炮初速度<i>υ</i><sub>0</sub>沿水平方向分解和竖直方向分解，如图所示．</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/19-3.jpg' style='width: 240px'></div><p>得<i>υ</i><sub>0</sub><sub><i>x</i></sub><i>=</i><i>υ</i><sub>0</sub>cos37<sup>o</sup>＝60m/s</p><p><i>υ</i><sub>0</sub><sub><i>y</i></sub><i>=</i><i>υ</i><sub>0</sub>sin37<sup>o</sup>=80m/s</p><p>沿竖直方向上分解，有加速度为<i>g</i>，方向向下，所以竖直方向上为竖直上抛运动．</p><p>由0=<i>υ</i><sub>0</sub><sub><i>y</i></sub>―<i>g</i><i>t</i><sub>1</sub></p><p>得上升的时间${{t_1} = \\dfrac{{{\\upsilon _{0y}}}}{g} = 8{\\rm{s}}}$</p><p>由此得火炮上升的最大高度\\(y = {\\upsilon _0}{t_1} - \\dfrac{1}{2}g{t^2} = 320{\\rm{m}}\\)</p><p>斜上抛运动的轨迹对经过最高点的竖直线是左右对称的，故运动的总时间<i>t</i>=2<i>t</i><sub>1</sub>=16s</p><p>水平方向上的合外力为零，所以水平方向为匀速直线运动．</p><p>由<i>x</i>=<i>υ</i><sub>0</sub><sub><i>x</i></sub><i>t</i></p><p>得射程可达<i>x</i>=960m</p>",
+      "summary": "<p>小结：斜上抛运动要分解为水平方向的匀速直线运动和竖直上抛运动来解答．</p><div class='flash center-pic'><flash src='books/physics/flash/GZWLDH0287斜上抛物体的运动规律.swf' width='600px' height='400px'></flash><span>斜上抛物体的运动规律</span></div>"
+    }
+  ]
+}

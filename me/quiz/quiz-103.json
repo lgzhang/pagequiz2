@@ -1,0 +1,11 @@
+﻿{
+  "title":"随堂训练",
+  "counting": [
+    {
+    	"question": "3．（B层次）如图所示是训练飞行员用的一种离心试验器．当试验器转动时，被训练人员根据测试要求，在试验舱内可取坐、卧等不同姿势，以测试离心作用对飞行员产生的影响．离心试验器转动时，被测验者做匀速圆周运动．现观察到图中的直线AB（即垂直于座位的直线）与水平杆成30<sup>o</sup>角．被测验者对座位的压力是他所受重力的多少倍?<div class='imgback baguetteBoxOne center-pic' style='width:270px'><img src='books/physics/images/pages/quiz-33-2.png' style='width: 250px'></div>",
+    	"correctAnswer": "解答：人受重力和弹力的作用，两个力的合力提供向心力，受力分析如图所示．<div class='imgback baguetteBoxOne right-pic' style='width:170px'><img src='books/physics/images/pages/quiz-33-3.png' style='width: 150px'></div><br>在竖直方向，\\({F_N}\\sin {30^o} = mg\\)①<br>在水平方向，\\({F_N}\\cos {30^o} = m{\\omega ^2}r\\)②<br>由①②式解得：F<sub>N</sub> =2mg<br>由牛顿第三定律知，人对座位的压力是其重力的2倍．<br>答案：2",
+    "details": ""
+    }
+  ]
+
+}

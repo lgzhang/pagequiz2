@@ -1,0 +1,16 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例2：（B层次）划船速度为<i>υ</i><sub>1</sub>=4m/s的小船在宽<i>d</i>=100m，水速为<i>υ</i><sub>2</sub><i>=</i>3m/s的小河中，由一岸划向另一岸，要想渡河时间最短应怎样划？渡河时间是多少？以下4位同学这样说：<div class='imgback baguetteBoxOne right-pic'style='width: 170px'><img src='books/physics/images/pages/6-1.jpg' style='width: 150px'></div><br/>甲说：应斜向上游划，使船对岸的速度与河岸垂直；<br/>乙说：应斜向下游划，使船对岸的速度尽可能大；<br/>丙说：应垂直河岸划，渡船过河时间只需25s；<br/>丁说：应垂直河岸划，这时船对岸的速度为5m/s ，所以渡河时间需20s.<br/>说法正确的是（　　）",
+      "answers":["A．甲",
+                  "B．乙", 
+                  "C．丙",
+                  "D．丁"
+                  ],
+      "correctAnswer": "1",
+      "details": "答案：C <br/>解析：许多同学可能会认可甲的说法，如图（a）所示．${\\upsilon  = \\sqrt {{\\upsilon _1}^2 - {\\upsilon _2}^2}  = \\sqrt 7 {\\rm{m}}/{\\rm{s}}}$，过河时间\\(t = \\dfrac{d}{\\upsilon } = \\dfrac{{100}}{{\\sqrt 7 }}{\\rm{s}} \\approx 38{\\rm{s}}\\).<div class='imgback baguetteBoxOne right-pic'style='width: 170px'> <img src='books/physics/images/pages/6-3.jpg' style='width: 150px'><span>（b）</span></div><div class='imgback baguetteBoxOne right-pic'style='width: 162px'><img src='books/physics/images/pages/6-2.jpg' style='width: 142px'><span>（a）</span></div><br/>个别同学可能会认可乙的说法，但因位移也相应很大，故这个时间也较大．<br/>个别同学可能会认可丙的说法，如图（b）所示．${\\upsilon  = \\sqrt {{\\upsilon _1}^2 + {\\upsilon _2}^2}  = 5{\\rm{m}}/{\\rm{s}}}$，sin<i>θ</i>=0.8．<br/>船行距离<i>s</i>=<i>d</i>/sin<i>θ</i>=125m．过河时间<i>t</i>＇＝<i>s</i>/<i>υ</i>=25s．显然：<i>t</i>'＜<i>t</i>．<br/>丁混淆各物理量的关系，没有用合位移对合速度进行计算．很明显，丙的说法正确.",
+      "summary": "小结：当我们选择了划船方向后，我们就可寻找这个方向的位移，用这个位移除以划船速度，即为船过河的时间．由此看出，划船方向与岸垂直时最短，而划船方向向上还是向下形成对称，有两个相等的时间．<div class='flash center-pic'><flash src='books/physics/flash/船在流水中的运动.swf' width='600px' height='400px'></flash><span>船在流水中的运动</span><div>"
+    }
+  ]
+}

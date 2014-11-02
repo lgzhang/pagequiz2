@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例2】（B层次）如图，一个质量<i>m</i>=2kg的小球从高<i>h</i>=0.8m处以<i>υ</i><sub>0</sub>=3m/s的初速度水平向右抛出，<i>g</i>=10m/s<sup>2</sup>．求：<br/>（1）若不计空气阻力，小球落地时的动能；<br/>（2）若小球落地时的动能为22J，求空气阻力对小球做的功．<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-3-7.jpg' style='width: 240px'></div>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "【解析】<div class='imgback baguetteBoxOne right-pic' style='width:260px'><img src='books/physics/images/pages/4-3-8.jpg' style='width: 240px'></div>（1）采用两种思路解答：<br/>思路一：把物体平抛运动分解为竖直方向的自由落体运动和水平方向的匀速直线运动<br/>在竖直方向，根据${{\\upsilon _y}^2 = 2gh}$<br/>得物体落地时的竖直速度为：${{\\upsilon _y} = \\sqrt {2gh}  = 4m/s}$<br/>物体落地时的合速度为：${\\upsilon  = \\sqrt {{\\upsilon _y}^2 + {\\upsilon _0}^2}  = 5m/s}$<br>物体落地时的动能为：${{E_k} = \\dfrac{1}{2}m{\\upsilon ^2} = 25J}$<br/>思路二：如果我们不考虑物体的运动轨迹，我们用动能定理列式，有：${mgh = \\dfrac{1}{2}m{\\upsilon ^2} - \\dfrac{1}{2}m{\\upsilon _0}^2}$<br/>得物体落地时的动能为：${{E_k} = \\dfrac{1}{2}m{\\upsilon ^2} = \\dfrac{1}{2}m{\\upsilon _0}^2 + mgh = 25J}$<br>由此发现：动能定理适用于曲线运动．<br/>（2）小球落地时的动能为22J，小于不计空气阻力时落地的动能，说明空气阻力对小球做了负功．由于空气阻力的方向与小球的运动方向相反，时刻改变，故空气阻力是变力．<br/>根据动能定理，有：${mgh + {W_f} = \\dfrac{1}{2}m{\\upsilon '^2} - \\dfrac{1}{2}m{\\upsilon _0}^2}$<br/>得空气阻力对小球做的功为：${{W_f} = \\dfrac{1}{2}m{\\upsilon '^2} - \\dfrac{1}{2}m{\\upsilon _0}^2 - mgh =  - 3J}$<br/>【答案】（1）－12J；（2）3N．",
+      "summary": "【小结】<br/>1．作用在物体上的力无论是什么性质的力，无论是恒力还是变力，无论物体作直线运动还是曲线运动，动能定理都适用．<br/>2．计算时应把各已知功的正、负号代入动能定理表达式，如果有的力是变力，且为所求的力，则设一个功的符号与其它已知力做功相加，再求出其值（正值表示正功，负值表示负功）．<div class='flash center-pic'><flash src='books/physics/flash/gzWLdh0252飞机起飞的研究.swf' width='530px' height='334px'></flash><span>飞机起飞的研究</span></div>"
+    }
+  ]
+}

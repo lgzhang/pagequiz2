@@ -1,0 +1,25 @@
+﻿{
+  "title": "随堂训练",
+  "choices": [{
+    "question": "1．（B层次）质点做匀速圆周运动，则（     ）",
+    "answers": [
+      "A．在任何相等的时间里，质点通过的路程都相等 ",
+      "B．在任何相等的时间里，连接质点和圆心的半径转过的角度都相等",
+      "C．在任何相等的时间里，质点的位移都相等",
+      "D．在任何相等的时间里，质点运动的平均速度都相等"
+    ],
+    "correctAnswer": "1 2",
+    "details": "解析：质点做圆周运动时，相等的时间内通过的圆弧长度相等，即路程相等，转过的圆心角也相等；但由于位移是矢量，在相等时间内质点位移大小相等，但方向不一定相同，因此位移不一定相同，而平均速度也是矢量，虽然大小相等，但方向不一定相同．"
+  },
+  {
+    "question": "2．（B层次）如图甲为地球自转的图片，图乙中<i>A</i>纬度为<i>θ</i>，<i>B</i>点在赤道上，<i>ω</i><sub>1</sub>、<i>ω</i><sub>2</sub>分别表示<i>A</i>、<i>B</i>的角速度，<i>υ</i><sub>1</sub>、<i>υ</i><sub>2</sub>分别表示<i>A</i>、<i>B</i>的线速度，以下判断正确的是（　　）<div class='imgback baguetteBoxOne right-pic'style='width: 230px'><img src='books/physics/images/pages/26-1.jpg' style='width: 210px'></div>",
+    "answers": [
+                  "A．${\\omega {}_1/\\omega {}_2 = 1/\\cos \\theta }$", 
+                  "B．${\\omega {}_1/\\omega {}_2 = 1/1}$", 
+                  "C．${{\\upsilon _1}/{\\upsilon _2} = 1/\\cos \\theta }$",
+                  "D．${{\\upsilon _1}/{\\upsilon _2} = \\cos \\theta /1}$"
+                  ],
+    "correctAnswer": "2 4",
+    "details": "答案：BD <br/>解析：无论地球何处，自转的角速度是相同的，故Ｂ项正确；设地球的半径为R，根据线速度与角速度的关系，有：${{\\upsilon _1} = \\omega  \\cdot R\\cos \\theta }$，${{\\upsilon _2} = \\omega  \\cdot R}$，得${{\\upsilon _1}/{\\upsilon _2} = \\cos \\theta /1}$．"
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "<p ><div class='imgback baguetteBoxOne right-pic' style='width:220px'><img src='books/physics/images/pages/4-5-9.jpg' style='width: 200px'></div>2．（B层次）利用图甲装置验证机械能守恒定律，打出的一条纸带如图乙所示．图乙中<i>O</i>是打出的第一个点迹，<i>A</i>、<i>B</i>、<i>C</i>、<i>D</i>、<i>E</i>、<i>F</i>…是依次打出的点迹，量出<i>O</i><i>E</i>间的距离为<i>l</i>，<i>D</i><i>F</i>间的距离为<i>s</i>，已知打点计时器打点的周期为<i>T</i></p><p>如果出现这种情况，上述各物理量间满足的关系式可能是(    )</p>",
+      "answers": ["A．${gl = \\dfrac{{s{}^2}}{{8T{}^2}}}$", 
+                  "B．${gl > \\dfrac{{s{}^2}}{{8T{}^2}}}$", 
+                  "C．${gl < \\dfrac{{s{}^2}}{{8T{}^2}}}$"
+                  ],
+      "correctAnswer": "3",
+      "details": "答案：C<p>设想重物做自由落体运动，重力加速度取<i>g</i>=10m/s<sup>2</sup>，下落的第一段（时间<i>T</i>＝0.02s）的位移为：${{h_1} = \\dfrac{1}{2}g{T^2} = \\dfrac{1}{2} \\times 10 \\times {0.02^2}m = 2 \\times 10{}^{ - 3}m = 2mm}$；第一段间距达到4mm，说明操作时先释放纸带后接通电源，即先产生了初动能．由${{E_{k0}} + mgl = \\dfrac{1}{2}m{\\upsilon _E}^2 = \\dfrac{1}{2}m(\\dfrac{s}{{2T}}){}^2}$，得${gl < \\dfrac{{s{}^2}}{{8T{}^2}}}$．</p>",
+      "summary": ""
+    }
+  ]
+}

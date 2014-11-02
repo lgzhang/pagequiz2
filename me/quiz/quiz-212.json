@@ -1,0 +1,14 @@
+{
+  "title":"随堂训练",
+  "example": [
+    
+     {
+      "question": "3．（B层次）如图，足够长斜面的倾角为\\(\\theta \\)，质量为\\(m\\)的滑块距挡板P的距离为\\({s_0}\\)，以初速度\\({\\upsilon _0}\\)沿斜面上滑，滑块与斜面间的动摩擦因数为\\(\\mu \\)，滑块所受的摩擦力小于滑块重力沿斜面向下的分力．若滑块每次与挡板相碰均无机械能损失，求滑块经过的总路程．<img src='books/physics/images/quiz/quiz-66-c-3.png'>",
+      "answers":[],
+      "correctAnswer":[],
+      "details": "解答：设整个运动过程中滑块的路程为\\(S\\)，滑块最后静止于挡板处，则滑动摩擦力对物体做的功为：\\({W_f} =  - \\mu mg\\cos \\theta  \\cdot S\\)<br/>重力对物体做的功为\\({W_G} = mg\\sin \\theta  \\cdot {s_0}\\)<br/>由动能定理得\\({W_f} + {W_G} = 0 - \\dfrac{1}{2}m{v_0}^2\\)<br/>解得：\\(S = \\dfrac{{{\\upsilon _0}^2 + g{s_0}\\sin \\theta }}{{2\\mu g\\cos \\theta }}\\)",
+      "summary":""
+    }
+  ]
+
+}

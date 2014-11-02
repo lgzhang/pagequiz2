@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "<p>例2：（B层次）在匀速水平飞行的飞机上，每隔<i>T</i>(s)依次释放甲、乙、丙、丁四个物体，若不计空气阻力，重力加速度为<i>g</i>（m/s<sup>2</sup>）．当丁物体刚释放时，从上往下看，下列说法正确的有（　）</p><div class='imgback baguetteBoxOne right-pic' style='width:160px'><img src='books/physics/images/pages/01_04_plane.png' style='width: 140px'></div>",
+      "answers":[ "A．四个物体在同一直线上且在飞机正下方 ",
+                  "B．甲乙两物体的距离与乙丙两物体的距离之差等于<i>g</i><i>T</i></p><p> ",
+                  "C．相邻两物体间的距离之比为1∶4∶9 ",
+                  "D．相邻两物体间的距离之比为1∶3∶5"],
+      "correctAnswer": "1 3",
+      "details": "答案：AD <br/>思路剖析：由于平抛运动中物体在竖直方向上做自由落体运动，故运动学的导出规律，如任意两个连续相等的时间间隔内，位移之差是一恒量等于<i>g</i><i>T</i><sup>2</sup>；又如初速度为零的匀加速直线运动，从静止开始通过连续相等的时间间隔内的位移之比为1∶3∶5∶…等等这些都可以灵活应用．<br/>解析：由于离开飞机后的物体在空中做平抛运动，在水平方向上做与飞机速度相等的匀速直线运动，在竖直方向做自由落体运动，故四个物体在同一直线上且在飞机正下方，A项正确．在竖直方向上，四个物体的运动时间间隔是相等的，根据运动学的导出规律，可得甲乙两物体的距离与乙丙两物体的距离之差跟乙丙两物体的距离与丙丁两物体的距离之差相等，等于<i>g</i><i>T</i><sup>2</sup>，B项错误．相邻两物体间的距离之比为1∶3∶5，D项正确C项错误．",
+      "summary": "小结：运动学导出规律也是解决平抛运动的重要“武器”之一，同学们要记住其适用条件，切不可乱套或用错公式．<div class='videoContainer' style='width:500px; height: 281px'><video preload='auto' src='books/physics/video/10讨论从飞机上投下的炸弹的运动.mp4'/></video><div class='poster'><img src='books/physics/video/10讨论从飞机上投下的炸弹的运动.jpg'/></div><div class='btnPlay'></div><div class='text'>讨论从飞机上投下的炸弹的运动</div></div>"
+    }
+  ]
+}

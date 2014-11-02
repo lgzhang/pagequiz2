@@ -1,0 +1,13 @@
+{
+  "title":"随堂训练",
+  "example": [
+    {
+      "question": "2．（Ｂ层次）一球从高出地面H 处由静止自由落下，忽略空气阻力，落至地面后并深入地下h 处停止，设球质量为m，求球在落入地面以下过程中受到的平均阻力．",
+      "answers":[],
+      "correctAnswer": "",    
+      "details":"解答：如图所示，设落地瞬间球的速度为υ．<div class='imgback baguetteBoxOne right-pic' style='width: 100px'> <img src='books/physics/images/quiz/quiz-66-c-2.png' style='width: 80px'></div>在A→B过程中，根据动能定理：mgH=\\(\\dfrac{1}{2}\\)mυ2－0①<br/>在B→C过程中，根据动能定理：mgh－fh=0－\\(\\dfrac{1}{2}\\)mυ2②<br/>由①②可知：f=\\(\\dfrac{{H + h}}{h}\\)mg<br/>也可把球的运动过程作为一个整体考虑(A→C)，根据动能定理：mg(H+h)－fh=0－0<br/>解得：f=\\(\\dfrac{{H + h}}{h}\\)mg",
+      "summary":""
+        }
+  ]
+
+}

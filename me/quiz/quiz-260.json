@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例2】（B层次）如图所示，一质量为<i>m</i>=1.0kg的物体从高为<i>h</i>=0.8m的光滑斜面顶端静止开始下滑．斜面倾角为37<sup>o</sup>．求：<div class='imgback baguetteBoxOne center-pic' style='width: 170px'>            <img src='books/physics/images/pages/4-7-7.jpg'          style='width: 150px'></div><p >（1）物体从斜面顶端滑至底端的过程中重力的功率；</p><p >（2）物体滑到斜面底端时重力的瞬时功率．</p>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "<p >（1）物体从斜面顶端滑至底端的过程中重力的功率；</p><p >（2）物体滑到斜面底端时重力的瞬时功率．</p><p >【解析】（1）物体从斜面顶端滑至底端的过程中重力的功率是平均功率．这过程中重力做的功为<i>W</i><sub><i>G</i></sub>=<i>m</i><i>g</i><i>h</i>=8J，运动时间为\\(t = \\sqrt {\\dfrac{{2h}}{{g\\sin \\theta \\sin \\theta }}}  = \\dfrac{2}{3}s\\)，</p><p >所以重力的功率为<i>P</i><i>＝</i><i>W</i><i>/</i><i>t</i>=12W．</p><p >（2）物体滑到斜面底端的瞬时重力的功率是瞬时功率．物体滑到斜面底端的瞬时速度为<i>υ</i>=${\\sqrt {2gh} }$=4m/s．而<i>υ</i>与<i>m</i><i>g</i>的夹角为53<sup>o</sup>，所以<i>P</i><i>＝</i><i>F</i><i>υ</i>=<i>m</i><i>g</i><i>υ</i>cos53<sup>o</sup>=24W．</p><p >【答案】（1）12W（2）24W</p>",
+      "summary": "【小结】（1）瞬时功率一般用推导式<i>P</i><i>=</i><i>F</i><i>υ</i>cos<i>α</i>求解，其中<i>υ</i>是指该时刻力作用点的瞬时速度，<i>α</i>是指力<i>F</i>与速度<i>υ</i>之间的夹角；（2）求平均功率有两条途径：其一用定义式<i>P</i>=${\\dfrac{W}{t}}$计算；其二用${P = F\\overline \\upsilon  }$计算．"
+    }
+  ]
+}

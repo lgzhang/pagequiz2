@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例3】（C层次）如图，一木块静置于光滑的水平面上，一颗子弹沿水平方向射入木块，若子弹进入木块的深度为<i>d</i>，与此同时木块沿水平面移动了位移<i>s</i>．设子弹在木块中受到的阻力大小不变，则在子弹与木块相对运动的过程中（　　）<div class='imgback baguetteBoxOne center-pic' style='width: 500px'>            <img src='books/physics/images/quiz/4-6-3.jpg'          style='width: 480px'></div>",
+      "answers": ["A．子弹损失的动能与木块获得的动能之比为(<i>s</i>+<i>d</i>):<i>s</i>",
+        "B．子弹损失的动能与系统获得的内能之比为(<i>s</i>+<i>d</i>):<i>d</i><sub></sub>",
+        "C．木块获得的动能与系统获得的内能之比为<i>d</i><i> </i>:<i>s</i><sub></sub>",
+        "D．木块获得的动能与系统获得的内能之比为<i>s</i><i> </i>:<i>d</i><sub></sub>"],
+      "correctAnswer": "1 4",
+      "details": "【答案】AD<br/>【解析】根据牛顿第三定律，子弹所受的摩擦力<i>f</i>与木块所受的摩擦力<i>f</i>′的大小相等．如图所示：<div class='imgback baguetteBoxOne center-pic' style='width: 500px'><img src='books/physics/images/quiz/4-6-4.jpg' style='width: 480px'></div></p><p >对子弹，根据动能定理，\\[ - f(s + d) = {E_{k初}} - {E_{k末}}\\]，所以动能的损失量为：\\[{ E_{k初}} - { E_{k末}}{\\rm{ = }}f(s + d)\\]  ①</p><p >对木块，根据动能定理，\\[f's = {E_{k末}}^\\prime  - {E_{k初}}^\\prime \\]，所以获得的动能增加量为：\\[{E_{k末}}^\\prime  - 0 = fs\\]  ②</p><p >对于系统，①－②，得系统损失的机械能为\\[{E_{k初}} - ({E_{k末}} + {E_{k末}}^\\prime ) = fd\\]，即系统获得的内能为<i>Q</i>=<i>f</i><i>d</i><i> ③</p><p >　　由①②③可得：子弹损失的动能与木块获得的动能之比为(<i>s</i>+<i>d</i>):<i>s</i>；木块获得的动能与系统获得的内能之比为<i>s</i><i> </i>:<i>d</i>．</p><p >【答案】AD</p>",
+      "summary": "【小结】1．子弹动能的损失量与木块获得动能量及系统获得的内能量都取绝对值；2.子弹动能的的损失量以及木块获得动能量与它们分别对地的位移成正比；3.系统获得内能量与子弹相对木块的位移量成正比．<div class='videoContainer' style='width:500px; height: 281px'>        <video preload='auto' src='books/physics/video/47子弹射入木块过程中机械能如何变化.mp4'/></video>        <div class='poster'><img src='books/physics/video/47子弹射入木块过程中机械能如何变化.jpg'/></div>        <div class='btnPlay'></div>        <div class='text'>子弹射入木块过程中机械能如何变化</div>    </div>"
+    }
+  ]
+}

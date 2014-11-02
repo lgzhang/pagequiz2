@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例2：（B层次）将一石块在地面上以20m/s的速度竖直向上抛出，求抛出后1s和3s时石块的高度.（不计空气阻力，<i>g</i>=10m/s<sup>2</sup>）<br/>思路剖析：</p><div class='imgback baguetteBoxOne center-pic' style='width:500px'><img src='books/physics/images/pages/10-2.jpg' style='width: 480px'></div>",
+      "answers":[],
+      "correctAnswer": "",
+      "details": "答案：15m． <br/>解析：方法一、分段处理法<br/>首先要判断石块上升和下降的时间．取初速度的方向为正方向．<br/>在上升过程中，已知<i>υ</i><sub>0</sub>=20m/s，<i>υ</i><sub><i>t</i></sub>=0，<i>a</i>=－<i>g</i>．<br/>根据<i>υ</i><sub><i>t</i></sub>=<i>υ</i><sub>0</sub>+<i>a</i><i>t</i>可得上升到最高点的时间为：${t = \\dfrac{{ - {\\upsilon _0}}}{a} = \\dfrac{{ - {\\upsilon _0}}}{{ - g}} = 2(s)}$<br/>最大高度为：${h = {\\upsilon _0}t - \\dfrac{1}{2}g{t^2} = 20(m)}$<br/>所以在1s末和3s末石块分别处于上升和下降阶段.故有：<br/>若取初速度的方向为正方向，石块经过1s时的高度为：${{h_1} = {\\upsilon _0}{t_1} - \\dfrac{1}{2}gt_1^2 = 15(m)}$<br/>若取向下为正方向，则a=g，石块经过3s时的高度，相当于石块自由落体1s时的高度，而石块做自由落体1s内下落的高度为：${{h_0} = \\dfrac{1}{2}gt_1^2 = 5({\\rm{m}})}$<br/>故此时物体离地的高度为：h2=h－h0=15(m)<br/><br/>方法二、整段处理法<br/>取初速度的方向为正方向，抛出点为原点，已知υ<sub>0</sub>=20m/s，a=-g．t<sub>1</sub>=1s，t<sub>3</sub>=3s．<br/>抛出后1s末物体的离地高度为：${{h_1} = {\\upsilon _0}{t_1} - \\dfrac{1}{2}gt_1^2 = 15(m)}$（即1s内的位移）<br/>抛出后3s末物体的离地高度为：${{h_3} = {\\upsilon _0}{t_3} - \\dfrac{1}{2}gt_3^2 = 15(m)}$（即3s内的位移）<br/>可见，1s、2s末物体的高度相同，1s末在上升，3s末在下降。这一点按整段法求出1s、3s末的速度就更清楚了．<br/>\\({\\upsilon _1} = {\\upsilon _0} - g{t_1} = 20 - 10 \\times 1 = 10(m/s),{\\upsilon _3} = {\\upsilon _0} - g{t_3} = 20 - 10 \\times 3 =  - 10(m/s)\\)",
+      "summary": "小结：两种方法相比，得到的结果完全相同，方法二显得简洁，但是方法一过程很清晰．两种方法都要首先确定正方向，以确定加速度的方向，这点要特别重视．<div class='flash center-pic'><flash src='books/physics/flash/连续朝天开枪.swf' width='600px' height='400px'></flash><span>连续朝天开枪</span></div>"
+    }
+  ]
+}

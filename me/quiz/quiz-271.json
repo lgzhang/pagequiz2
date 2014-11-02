@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例2】（B层次）将横截面积为<i>S</i>的玻璃管弯成如图所示的连通器，放在水平桌面上，左、右管处在竖直状态，先关闭阀门<i>K</i>，往左、右管中分别注入高度为<i>h</i><sub>1</sub>和<i>h</i><sub>2</sub>、密度为<i>ρ</i>的液体，然后打开阀门<i>K</i>，直到液体静止在上述过程中，液体的重力势能减小了（　　）<div class='imgback baguetteBoxOne center-pic' style='width: 170px'>            <img src='books/physics/images/pages/4-8-2.jpg'          style='width: 150px'></div>",
+      "answers": ["A．${\\rho gS\\left( {{h_1} - {h_2}} \\right)}$",
+        "B．${\\dfrac{1}{2}\\rho gS{\\left( {{h_1} - {h_2}} \\right)^2}}$",
+        "C．${\\dfrac{1}{4}\\rho gS{\\left( {{h_1} - {h_2}} \\right)^2}}$",
+        "D．${\\dfrac{1}{4}\\rho gS\\left( {{h_1} - {h_2}} \\right)}$"],
+      "correctAnswer": "3",
+      "details": "【解析】从打开阀门<i>K</i>后，左管中的液体流向右管，直到两管液面相平，相当于把左管中高为${\\dfrac{{({h_2} - {h_1})}}{2}}$的液体“搬”到右管中，其重心下降的高度为${\\dfrac{{({h_2} - {h_1})}}{2}}$，所以该过程中，液体重力势能的减小量为${\\Delta {E_p} = \\rho gs\\dfrac{{({h_2} - {h_1})}}{2} \\cdot \\dfrac{{({h_2} - {h_1})}}{2} = \\dfrac{1}{4}\\rho gs{({h_2} - {h_1})^2}}$．",
+      "summary": "【小结】分析本题的关键是抓住重力做功与重力势能变化的关系以及重力做功的特点，采用等效法分析．"
+    }
+  ]
+}

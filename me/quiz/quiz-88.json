@@ -1,0 +1,17 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例3：（C层次）如图，一内壁光滑的圆锥筒轴线垂直于水平面，圆锥筒固定不动，两个质量相同的小球A和B紧贴着内壁分别在图中所示的水平面内做匀速圆周运动，则（    ）<div class='imgback baguetteBoxOne center-pic'style='width:160px'><img src='books/physics/images/pages/30-1.jpg'style='width: 140px'></div>",
+      "answers": ["A．球A的线速度必定大于球B的线速度", 
+                  "B．球A的角速度必定小于球B的角速度 ", 
+                  "C．球A对筒壁的压力必定大于球B对筒壁的压力",
+                  "D．球A的运动周期必定小于球B的运动周期",
+                  "思路剖析：此题属于圆锥摆模型，其思路如下：<div class='imgback baguetteBoxOne center-pic'style='width:520px'><img src='books/physics/images/quiz/quiz-111.jpg'style='width: 500px'></div>"
+                  ],
+      "correctAnswer": "1",
+      "details": " 答案：AB <br/>  解析：对小球进行受力分析，如图所示<div class='imgback baguetteBoxOne center-pic'style='width:140px'><img src='books/physics/images/quiz/quiz-111-a.jpg'style='width: 120px'></div>小球A和B的受力情况完全相同，即重力和支持力的合力提供了向心力，有：\\(F{}_{向} = \\dfrac{{mg}}{{\\tan \\theta }} = m\\dfrac{{{\\upsilon ^2}}}{r} = m{\\omega ^2}r\\)因 相同，A球轨道半径\\(r\\)大，所以线速度υ大、角速度ω小；A、B两球受到的弹力\\(N\\)相同，根据牛顿第三定律，两球对筒壁压力大小也相等；根据${T = \\dfrac{{2\\pi }}{\\omega }}$可知，球A的ω小、\\(T\\)大.",
+      "summary": "小结：1．作图做好受力分析是关键；2．总结发现圆锥摆模型的规律，即小球的质量一定，转动时圆锥角<i>θ</i>一定，则无论摆在何处，弹力不变，其产生的向心力不变；3．善用公式\\(F = \\)\\(m\\dfrac{{{\\upsilon ^2}}}{r}\\)或\\(F = \\)\\(m{\\omega ^2}r\\)找答案."
+    }
+  ]
+}

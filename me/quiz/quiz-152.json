@@ -1,0 +1,16 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例3】2009年5月，美国航天飞机在完成对哈勃空间望远镜的维修任务后，在<i>A</i>点从圆形轨道Ｉ进入椭圆轨道Ⅱ，<i>B</i>为轨道Ⅱ上的一点，如图所示，关于航天飞机的运动，下列说法正确的是（　　）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/3-3-4.jpg' style='width: 240px'></div>",
+      "answers": ["A．在轨道Ｉ上任何位置的速度相同", 
+                  "B．在轨道Ｉ、Ⅱ上经过A点的速度相同", 
+                  "C．在轨道Ⅱ上经过A点的速度小于在轨道Ｉ上经过A点的速度",
+                  "D．在轨道Ⅱ上经过A点的速度小于经过B点的速度"
+                  ],
+      "correctAnswer": "【答案】CD",
+      "details": "【答案】CD<br/>解析】速度是矢量，在轨道Ｉ上任何位置速度的方向不同，故A错误．而从轨道Ｉ之所以能进入椭圆轨道Ⅱ，是因为在<i>Ａ</i>点的切线方向上产生了与速度方向相反的瞬间加速度，使其速率瞬间减小导致向心力瞬间小于万有引力而做向心运动，B项错误C项正确．在向心运动的过程中，万有引力的方向与速度方向的夹角小于90°，万有引力是动力，卫星的速度增大，到达<i>B</i>点时的速率最大，故D项正确．",
+      "summary": "【小结】同一圆周中，判断物理量是否相同要注意矢量性，在同一椭圆轨道中判断速度大小要利用万有引力与速度方向的夹角来判断，若夹角是锐角，万有引力是动力，则速度增大，若夹角是钝角，万有引力是阻力，则速度减小．判断不同轨道同一点的速度时，要看轨道的转变，根据向心运动或离心运动的原理进行判断．<div class='videoContainer' style='width:500px; height: 281px'><video preload='auto' src='books/physics/video/21分析卫星稳定状态和点火过程中相关物理量的情况.mp4'/><div class='poster'><img src='books/physics/video/21分析卫星稳定状态和点火过程中相关物理量的情况.jpg'/></div><div class='btnPlay'></div><div class='text'>分析卫星稳定状态和点火过程中相关物理量的情况</div></div>"
+    }
+  ]
+}

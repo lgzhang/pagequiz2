@@ -1,0 +1,14 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例3：（C层次）如图所示，半径为<i>R</i>的水平圆板绕竖直轴做匀速圆周运动，当半径<i>O</i><i>B</i>转到某一方向时，在圆板中心正上方<i>h</i>处以平行于<i>O</i><i>B</i>方向水平抛出一小球，若小球直接落到<i>B</i>点．求：<p>（1）小球的初速度υ<sub>0</sub></p><p>（2）圆板转动的角速度ω</p><div class='imgback baguetteBoxOne center-pic'style='width: 160px'><img src='books/physics/images/pages/25-2.jpg' style='width: 140px'></div>",
+      "answers": [
+                  "思路剖析：匀速圆周运动具有周期性，这样结合其它类型的运动可建构相遇类型的问题，只要掌握各运动的特点，抓住运动的等时性，挖掘题的条件，就能正确解答．"
+                  ],
+      "correctAnswer": "1",
+      "details": "答案：（1）${R\\sqrt {\\dfrac{g}{{2h}}} }$；（2）${\\pi n\\sqrt {\\dfrac{{2g}}{h}} }$（<i>n</i>取<i>n</i>=1，2，3…）<br/>解析：（1）根据平抛运动的规律，在竖直方向上，有：\\(h = \\dfrac{1}{2}g{t^2}\\)<sup></sup></p><p >    得平抛的时间为：${t = \\sqrt {\\dfrac{{2h}}{g}} }$</p><p >    在水平方向上，有：<i>R</i>=<i>υ</i><sub>0</sub><i>t</i></p><p >    得小球的初速度：${{\\upsilon _0} = \\dfrac{R}{t} = R\\sqrt {\\dfrac{g}{{2h}}} }$</p><p >    （2）设在小球运动的时间内圆板转动了<i>n</i>圈，则其时间为：</p><p >    ${t' = nT = n\\dfrac{{2\\pi }}{\\omega }}$（<i>n</i>取<i>n</i>=1，2，3…）     又由于运动的等时性，有：${t' = t}$</p><p >    故圆板转动的角速度：${\\omega  = \\dfrac{{2\\pi n}}{t} = \\pi n\\sqrt {\\dfrac{{2g}}{h}} }$（<i>n</i>取<i>n</i>=1，2，3…）",
+      "summary": "小结：平抛运动没有周期性，先确定其运动的时间．再设匀速圆周运动的周期数为<i>n</i>，根据公式列出时间，再把平抛的时间与圆周运动的时间等同起来，从而求出匀速圆周运动的物理量．"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例1：（B层次）如图所示是摩托车比赛转弯时的情形．转弯处路面常是外高内低，摩托车转弯有一个最大安全速度，若超过此速度，摩托车将发生滑动．对于摩托车滑动的问题，下列论述正确的是（　　）<div class='imgback baguetteBoxOne center-pic'style='width:160px'><img src='books/physics/images/pages/34-1.jpg' style='width: 140px'></div>",
+      "answers": ["A．摩托车一直受到沿半径方向向外的离心力作用", 
+                  "B．摩托车所受外力的合力小于所需的向心力 ", 
+                  "C．摩托车将沿其半径方向沿直线滑去",
+                  "D．摩托车将沿其线速度的方向沿直线滑去",
+                  "思路剖析：<div class='imgback baguetteBoxOne center-pic'style='width:400px'><img src='books/physics/images/quiz/quiz-125.png' style='width: 380px'></div>"
+                  ],
+      "correctAnswer": "2",
+      "details": " 答案：B <br/>  解析：摩托车只受重力、地面支持力和摩擦力作用，没有离心力，故A错．由于转弯是圆周运动，需要一个向心力，这个向心力由以上所指的力的合力提供，已知摩托车已发生离心运动，说明这个合力小于所需的向心力，B正确．而摩托车做离心运动时还受支持力和摩擦力等力作用，它们与速度方向构成夹角，故摩托做曲线运动，而非直线运动，故CD错．",
+      "summary": "小结：性质力是物体与系统发生作用所存在的主要力，是受力分析时所要确定的；向心力由它们构成，是根据物体做圆周运动的效果命名的，而合力与向心力的关系最终成了做圆周运动、离心运动或向心运动的条件，物体做离心运动的时候没有“离心力”一说．<div class='flash center-pic'></p><flash src='books/physics/flash/gzwldh0304火车拐弯向心力分析.swf' width='600px' height='400px'></flash><span>火车拐弯向心力分析</span>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例3】（B层次）如图，质量为<i>m</i>的小球被轻质弹簧从光滑的桌面上水平弹出，已知桌面高为<i>h</i>，小球水平位移为<i>s</i>，不计一切阻力，则（　　）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-2-6.jpg' style='width: 240px'></div>",
+      "answers": ["A．小球从桌面被弹出时的速度为${s\\sqrt {\\dfrac{{2h}}{g}} }$", 
+                  "B．小球从桌面被弹出时的速度为${s\\sqrt {\\dfrac{g}{{2h}}} }$", 
+                  "C．原来弹簧的弹性势能为${\\dfrac{{mg}}{{4h}}{s^2}}$",
+                  "D．原来弹簧的弹性势能为${\\dfrac{{mg}}{h}{s^2}}$"
+                  ],
+      "correctAnswer": "2 3",
+      "details": "【解析】根据平抛运动规律有：\\(h = \\dfrac{1}{2}g{t^2}\\)，<i>s</i>＝<i>υ</i><i>t</i>，得小球从桌面被弹出时的速度为${\\upsilon  = s\\sqrt {\\dfrac{g}{{2h}}} }$；小球飞出时的动能是由弹簧弹性势能转化的，故有\\(E{}_{弹} = \\dfrac{1}{2}m\\upsilon {}^2\\)，得原来弹簧的弹性势能为\\({E_{弹}} = \\dfrac{{mg}}{{4h}}{s^2}\\)．<br/>【答案】BC",
+      "summary": "【小结】高中阶段弹性势能的大小不必考虑用弹性势能的公式来计算，而是借助能量转化计算其他形式的能量来等值替代．<div class='videoContainer' style='width:530px; height: 281px'><video preload='auto' src='books/physics/video/26利用“无限细分累积求和”极限思想推导弹簧弹性势能的定量表达式.mp4'/></video><div class='poster'><img src='books/physics/video/26利用“无限细分累积求和”极限思想推导弹簧弹性势能的定量表达式.jpg'/></div><div class='btnPlay'></div><div class='text'>利用“无限细分累积求和”极限思想推导弹簧弹性势能的定量表达式</div></div>"
+    }
+  ]
+}

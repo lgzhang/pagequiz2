@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例2：（B层次）如图所示为一皮带传动装置，\\(a\\)、\\(b\\)分别是两轮边缘上的两点，\\(c\\)处在 <i>O</i> <sub>1</sub>轮上，且有\\({r_a} = 2{r_b} = 2{r_c}\\)，下列关系式正确的是（     ）<div class='imgback baguetteBoxOne center-pic' style='width: 300px'><img src='books/physics/images/pages/25-1.jpg' style='width: 280px'></div>",
+      "answers": ["A．\\({\\upsilon _a} = {\\upsilon _b}\\)", 
+                  "B．\\({\\omega _a} = {\\omega _b}\\)", 
+                  "C．\\({\\upsilon _a} = {\\upsilon _c}\\)",
+                  "D．\\({\\omega _a} = {\\omega _c}\\)"
+                  ],
+      "correctAnswer": "1",
+      "details": "答案：AD<br/>解析：由皮带传动的特点可知\\({\\upsilon _a} = {\\upsilon _b}\\)，故A选项正确，B选项错误；由共轴传动特点可知\\({\\omega _a} = {\\omega _b}\\)，再由\\(\\upsilon  = r\\omega \\)可知${\\dfrac{{{\\upsilon _a}}}{{{\\upsilon _c}}} = \\dfrac{{{r_a}}}{{{r_c}}} = \\dfrac{2}{1}}$，所以C选项错误，D选项正确．","summary": "小结：\\(a\\)、\\(b\\)间为皮带传动，所以线速度相同，\\(a\\)、\\(c\\)之间为共轴传动，角速度相同．<div class='flash center-pic'></p><flash src='books/physics/flash/gzwldh0290自行车传动系统的研究.swf' width='600px' height='400px'></flash><span>自行车传动系统的研究</span>."
+    }
+  ]
+}

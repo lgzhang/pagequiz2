@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【经典互动2】（B层次）有一种地下铁道，车站站台建得高些，车辆进站时要上坡，出站时要下坡，如图所示.设站台的高度<i>h</i>=2m，进站车辆到达坡下<i>A</i>点时，速度为25.2km/h，此时切断电动机的电源，车辆能不能“冲”到站台上？如果能够，到达站台上的速度是多大？<div class='imgback baguetteBoxOne center-pic' style='width: 500px'><img src='books/physics/images/pages/4-9-3.jpg' style='width: 480px'></div>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "解答：因为车辆到达坡下A点时断电动机的电源，所以冲上斜坡的过程对其做功的只有重力，车辆机械能守恒，设列车能够冲上斜坡，并且到达斜坡的速度为υ，选择地面为重力势能的零势面，由机械能守恒定律得：\\[\\frac{1}{2}m{\\upsilon _0}^2 = mgh + \\frac{1}{2}m{\\upsilon ^2}\\]；代入数据可解得3m/s > 0．所以可以判断车辆能够冲到斜坡顶端，且到达顶端的速度为3m/s.",
+      "summary": ""
+    }
+  ]
+}

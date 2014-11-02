@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例3：（B层次）如图，从倾角为<i>θ</i>的斜面（足够长）上<i>A</i>点，先后将同一小球以不同的初速度水平向右抛出，第一次初速度为<i>υ</i><sub>1</sub>，球落到斜面上前一瞬间的速度方向与斜面的夹角为<i>α</i><sub>1</sub>，第二次初速度<i>υ</i><sub>2</sub>，球落在斜面上前一瞬间的速度方向与斜面间的夹角为<i>α</i><sub>2</sub>，若<i>υ</i><sub>2</sub><i>＞</i><i>υ</i><sub>1</sub>，比较<i>α</i><sub>1</sub>和<i>α</i><sub>2</sub>的大小．可知（　　）<div class='imgback baguetteBoxOne right-pic'style='width: 280px'> <img src='books/physics/images/pages/15-3.jpg' style='width: 260px'></div>",
+      "answers":[ "A．<i>α</i><sub>2</sub>＞<i>α</i><sub>1</sub>",
+                  "B．<i>α</i><sub>2</sub>＜<i>α</i><sub>1</sub>",
+                  "C．<i>α</i><sub>2</sub>=<i>α</i><sub>1</sub>",
+                  "D．无法确定"],
+      "correctAnswer": "3",
+      "details": "答案：C <br/>解析：根据平抛运动的推论：速度与水平方向的夹角的正切等于位移与水平方向的夹角的正切的二倍，结合图中的几何关系可得${\\tan (\\alpha  + \\theta ) = 2\\tan \\theta }$，所以${\\alpha  = \\arctan (2\\tan \\theta ) - \\theta }$．</p><div class='imgback baguetteBoxOne center-pic'style='width: 280px'> <img src='books/physics/images/pages/15-3.jpg' style='width: 260px'></div><p>此式表明<i>α</i>仅与<i>θ</i>有关，而与初速度无关，因此<i>α</i><sub>2</sub>=<i>α</i><sub>1</sub>．即以不同初速度平抛的物体落在斜面上各点的速度方向是互相平行的．",
+      "summary": "小结：平抛运动两个推论虽然表达上有所不同，其实如出一辙．通过第一个推论${\\tan \\theta  = 2\\tan \\phi }$再进行拓展就能得到第二个推论．如何应用两个推论，关键看试题给我们怎样的条件．<div class='videofix'><div class='videoContainer video_align' style='width:400px; height: 225px'><video preload='auto' src='books/physics/video/13求平抛运动物体在斜面上两点间距离.mp4'></video><div class='poster'><img src='books/physics/video/13求平抛运动物体在斜面上两点间距离.jpg'/></div><div class='btnPlay'></div><div class='text'>求平抛运动物体在斜面上两点间距离</div></div><div class='videoContainer video_align' style='width:400px; height: 225px'><video preload='auto' src='books/physics/video/14求小球从抛出到离开斜面距离最大所用时间.mp4'/><div class='poster'><img src='books/physics/video/14求小球从抛出到离开斜面距离最大所用时间.jpg'/></div><div class='btnPlay'></div><div class='text'>求小球从抛出到离开斜面距离最大所用时间</div></div></div>"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "<p>【经典互动2】（B层次）如图所示，在网球的网前截击练习中，若练习者在球网正上方距地面<i>H</i>处，将球以速度<i>υ</i>沿垂直球网的方向击出，球刚好落在底线上，已知底线到网的距离为<i>L</i>，重力加速度取<i>g</i>，将球的运动视作平抛运动，下列表述正确的是（　　）</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/22-2.jpg' style='width: 240px'></div>",
+      "answers":["A．球的速度<i>υ</i>等于${L\\sqrt {\\dfrac{g}{{2H}}} }$", 
+                  "B．球从击出至落地所用时间为${\\sqrt {\\dfrac{{2H}}{g}} }$", 
+                  "C．球从击球点至落地点的位移等于<i>L</i>", 
+                  "D．球从击球点至落地点的位移与球的质量有关"],
+      "correctAnswer": "1 2",
+      "details": "<p>答案：AB</p><p>解析：由平抛运动规律，在竖直方向上有：\\(H = \\dfrac{1}{2}g{t^2}\\)，求得球从击出至落地所用时间${t = \\sqrt {\\dfrac{{2H}}{g}} }$；为在水平方向上有：\\(L = \\upsilon t\\)；求得球的速度<i>υ</i>等于${L\\sqrt {\\dfrac{g}{{2H}}} }$．球从击球点至落地点的位移大于<i>L</i>；由于重力产生的加速度为重力加速度，与质量无关，故运动位移也与质量无关．</p>",
+      "summary": ""
+    }
+  ]
+}

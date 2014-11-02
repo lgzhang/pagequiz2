@@ -1,0 +1,13 @@
+﻿{
+  "title":"随堂训练",
+  "choices": [{
+      "question": "1．（B层次）如图所示，一质量为m的小球用长为L的轻绳悬挂于O点，小球在水平力F　作用下，从平衡位置P点很缓慢地移到Q点．则F做的功为（　　）<img src='books/physics/images/quiz/quiz-66-c-1.png'>",
+      "answers": ["A．mgLcosθ", 
+                  "B．mgL(1－cosθ)", 
+                  "C．FLcosθ",
+                  "D．FLsinθ"],
+      "correctAnswer": "2",
+      "details": "解析：小球受到的重力是恒力，缓慢地拉意味着小球此过程时刻处于平衡状态，根据平衡条件知F应为变力，这时，F做功时不能直接用恒力做功公式\\(W = Fs\\cos \\alpha \\)．根据动能定理，有：\\(W - mgL(1 - \\cos \\theta ) = 0 - 0\\)，得F做的功为mgL(1－cosθ)．"
+    }
+  ]
+}

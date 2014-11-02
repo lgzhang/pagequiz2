@@ -1,0 +1,15 @@
+﻿  {
+  "title":"随堂训练",
+  "example": [
+    {
+      "question": "<p >【经典互动1】（B层次）如图所示是一个玩具陀螺．<i>a</i><i>、</i><i>b</i>和<i>c</i>是陀螺上的三个点．当陀螺绕垂直于地面的轴线以角速度<i>ω</i>稳定旋转时，下列表述正确的是(    )</p><div class='imgback baguetteBoxOne right-pic'style='width:140px'><img src='books/physics/images/quiz/quiz-137.jpg'style='width: 120px'></div>",
+      "answers": [  "A．<i>a</i><i>、</i><i>b</i>和<i>c</i>三点的线速度大小相等",
+      				"B．<i>a</i><i>、</i><i>b</i>和<i>c</i>三点的角速度相等",
+      				"C．<i>a</i><i>、</i><i>b</i>的角速度比<i>c</i>的大</p>",
+      				"D．<i>c</i>的线速度比<i>a</i>、<i>b</i>的小"],
+      "correctAnswer": "1",
+      "details": " <h5>答案：BD</h5> <h5>解析：</h5><p >由于<i>a</i><i>、</i><i>b</i>和<i>c</i>三点都是围绕着同一转轴转动的，故角速度都相同，而<i>a</i><i>、</i><i>b</i>二点的半径相同，故<i>a</i><i>、</i><i>b</i>二点的线速度大小相等．<i>c</i>的半径小，故线速度小．</p>",
+      "summary":""
+    }
+  ]
+ }

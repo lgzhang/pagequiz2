@@ -1,0 +1,16 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例2】（B层次）如图，为了把一个大小可忽略质量为<i>m</i>的小铁块移上高度为<i>h</i>的台阶，可以采用两种方法：①在<i>A</i><i>C</i>间架设一木板，用与木板平行的力将铁块沿木板缓慢推到<i>C</i>；②先用水平力从<i>A</i>其沿地面缓慢推到<i>B</i>，再从<i>B</i>缓慢搬到<i>C</i>，下面说法正确的是（　　）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-2-5.jpg' style='width: 240px'></div>",
+      "answers": ["A．第①种情况要克服重力做的功较多", 
+                  "B．第②种情况要克服重力做的功较多", 
+                  "C．两种情况克服重力做的功一样多",
+                  "D. 小铁块增加的重力势能一样多"
+                  ],
+      "correctAnswer": "3 4",
+      "details": "【解析】因重力一样，上移的高度差一样，故克服重力做功一样多；因克服重力做功多少，重力势能就增加多少，故重力势能的增加量也一样．<br/>【答案】CD",
+      "summary": "【小结】1．判断克服重力做功（或重力做功）的多少，只取决于重力以及终点、起点的高度差，与运动的路径无关；2．重力势能的变化量则取决于重力做功的多少，判断增加还是减少则看重力做正功还是做负功，重力做正功，重力势能减小；重力做负功，重力势能增加．<div class='flash center-pic'><flash src='books/physics/flash/gzwldh0238重力功与重力势能的关系.swf' width='530px' height='334px'></flash><span>重力功与重力势能的关系</span></div>"
+    }
+  ]
+}

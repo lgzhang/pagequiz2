@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例3】（C层次）如图所示，<i>ABC</i>和<i>DEF</i>是在同一竖直平面内的两条光滑轨道，其中<i>ABC</i>的末端水平，<i>DEF</i>是半径为<i>r</i>=0.4m的半圆形轨道，其直径<i>DF</i>沿竖直方向，<i>C</i>、<i>D</i>可看作重合．现有一可视为质点的小球从轨道<i>ABC</i>上距<i>C</i>点高为<i>H</i>的地方由静止释放．<br/>（1）若要使小球经<i>C</i>处水平进入轨道<i>DEF</i>且能沿轨道运动，<i>H</i>至少要有多高？<br/>（2）若小球静止释放处离<i>C</i>点的高度<i>h</i>小于（1）中<i>H</i>的最小值，小球可击中与圆心等高的<i>E</i>点，求<i>h</i>．（取<i>g</i>=10m/s<sup>2</sup>）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/04-4-3.jpg' style='width: 240px'></div>",
+      "answers": [ ],
+      "correctAnswer": "",
+      "details": "【解析】<div class='imgback baguetteBoxOne right-pic' style='width:260px'><img src='books/physics/images/pages/04-4-3.jpg' style='width: 240px'></div>（1）球能在竖直平面<i>DEF</i>内做圆周运动，在圆周最高点必须满足：<br/>${mg \\le \\dfrac{{m{\\upsilon ^2}}}{r}}$①<br/>小球从<i>ABC</i>轨道下滑，机械能守恒，设到达<i>C</i>点时的速度大小为<i>υ</i>．<br/>则：${mgH = \\dfrac{1}{2}m{\\upsilon ^2}}$②<br/>①②联立并代入数据，得：${H \\ge 0.2m}$<br/>（2）若${h < H}$，小球过<i>C</i>点后做平抛运动，设球经<i>C</i>点时的速度大小为<i>υ</i><sub><i>x</i></sub>，小球要击中与圆心等高的<i>E</i>点，则：<br/>竖直方向：${r = \\dfrac{1}{2}g{t^2}}$③<br/>水平方向：${r = {\\upsilon _x}t}$④<br/>小球从<i>ABC</i>轨道下滑，机械能守恒，有：${mgh = \\dfrac{1}{2}m{\\upsilon _x}^2}$⑤<br/>联立③④⑤并代入数据得${h = 0.1m}$<br/>【答案】（1）0.2m；（2）0.1m",
+      "summary": "【小结】<br/>1．判断物体的机械能守恒是否定律；<br/>2．讨论圆周运动临界条件：要保证小球能从<i>D</i>处即做圆周运动，必须使其通过<i>D</i>点时的速度不小于某一临界值；如果小于该临界值，小球即做平抛运动．"
+    }
+  ]
+}

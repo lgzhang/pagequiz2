@@ -1,0 +1,10 @@
+﻿{
+  "title":"随堂训练",
+  "counting": [
+    {
+    	"question": "3．（B层次）在电视节目中，我们常能看到图(a)一种精彩的水上运动—滑水板运动，现简化为如图(b)所示．运动员在快艇的水平牵引下，脚踏倾斜滑板在水上滑行，设滑板是光滑的，滑板的滑水面积为S，滑板与水平方向的夹角为θ（滑板前端抬起的角度），水的密度为ρ．理论研究表明：水对滑板的作用力大小F=ρSυ2sin2θ ，方向垂直于板面，式中υ为快艇的水平牵引速度．<div class='imgback baguetteBoxOne center-pic' style='width:380px'><img src='books/physics/images/quiz/quiz-86-c-2.png' style='width:360px'></div><br/>（1）设人的质量为m，求快艇的水平牵引速度υ．<br/>（2）在上述条件下，快艇对运动员的牵引力的功率P为多大？",
+    	"correctAnswer": "解答：（1）滑板运动员受力分析如图所示，由力的平衡知：<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/quiz/quiz-86-c-3.png' style='width:240px'></div>Fcosθ＝mg，T=mgtanθ.即：ρSυ2sin2θcosθ＝mg，<br/>所以：\\(\\upsilon  =\\dfrac{1}{{\\sin \\theta }}\\sqrt {\\dfrac{{mg}}{{\\rho S\\cos \\theta }}} \\)．<br/>（2）快艇对运动员的牵引力的功率为：<br/>P＝FTυ\\( = \\dfrac{{mg}}{{\\cos \\theta }}\\sqrt {\\dfrac{{mg}}{{\\rho S\\cos \\theta }}} \\)．<br/>",
+      "details":""
+    }
+  ]
+}

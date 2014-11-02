@@ -1,0 +1,16 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例3：（B层次）半径为R的光滑半圆球固定在水平面上，如图所示，顶部有一小物体A，给它一个水平初速度\\({\\upsilon _0} = \\sqrt {gR} \\)，则物体将（   ）<div class='imgback baguetteBoxOne center-pic'style='width:200px'><img src='books/physics/images/pages/02-03_pt.png' style='width: 180px'></div>",
+      "answers": ["A．沿球面下滑至点M", 
+                  "B．沿球面下滑至某一点N，便离开球面做斜下抛运动 ", 
+                  "C．按半径大于R的新的圆弧轨道做圆周运动",
+                  "D．立即离开半圆球做平抛运动"
+                  ],
+      "correctAnswer": "4",
+      "details": " 答案：D <br/>解析：物体在A点时，设半圆球对它的支持力为，则有\\(mg - F = m\\frac{{{\\upsilon ^2}}}{R}\\)，如果速度\\({\\upsilon _0} = \\sqrt {gR} \\)时，则支持力\\(F = 0\\)，此时重力刚好能提供向心力，物体做平抛运动．如果\\({\\upsilon _0} < \\sqrt {gR} \\)，则\\(F > 0\\)，物体会沿球面向下滑一块距离再离开球面抛运动；如果\\({\\upsilon _0} > \\sqrt {gR} \\)，物体做平抛运动，速度越大， 落地点离A的水平距离做斜下越远．",
+      "summary": "小结：做好小球在光滑半圆球最高点的受力分析，抓住小球不脱离轨道的临界条件是这种题的解题方法．<div class='videoContainer' style='width:500px; height: 281px'><video preload='auto' src='books/physics/video/24讨论球过最高点时对速度的要求.mp4'/></video><div class='poster'><img src='books/physics/video/24讨论球过最高点时对速度的要求.jpg'/></div><div class='btnPlay'></div><div class='text'>讨论球过最高点时对速度的要求</div></div>"
+    }
+  ]
+}

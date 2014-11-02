@@ -1,0 +1,16 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例2：（B层次）如图，物体做曲线运动，<i>A</i>、<i>B</i>、<i>C</i>、<i>D</i>是其轨迹上的四点，用实线箭头表示物体在该点的速度，虚线表示物体在该点时受到的合外力，则标示不符合事实的是（　　）<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/3-1.jpg' style='width: 240px'></div>",
+      "answers": ["A．<i>A</i>点", 
+                  "B．<i>B</i>点", 
+                  "C．<i>C</i>点",
+                  "D．<i>D</i>点"
+                  ],
+      "correctAnswer": "答案：BD",
+      "details": "答案：BD <br />解析：曲线运动中，物体受的力始终指向曲线的凹侧，即轨迹总是向外力方向弯曲.<i>A</i>处与<i>C</i>处符合曲线运动的条件及曲线运动的特征，明显有错误的是<i>B</i>处和<i>D</i>处.",
+      "summary": "小结：轨迹总在力与速度的夹角中，初速度方向要与轨迹中某点相切，且向受力的一侧偏．"
+    }
+  ]
+}

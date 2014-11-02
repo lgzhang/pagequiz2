@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例3】（B层次）如图，用恒力<i>F</i>推动倾角为<i>θ</i>的斜面体<i>A</i>向右匀速运动位移<i>L</i>，这一过程中物体<i>B</i>相对<i>A</i>静止不动，已知<i>B</i>与<i>A</i>的滑动摩擦因数为<i>μ</i>，<i>A</i>的质量为<i>M</i>，<i>B</i>的质量为<i>m</i>，求：<p ><div class='imgback baguetteBoxOne center-pic' style='width: 300px'>            <img src='books/physics/images/pages/4-1-7.jpg'          style='width: 280px'></div><p >&nbsp;</p><p >　　（1）力<i>F</i>对斜面体<i>A</i>做的功<i>W</i><sub>1</sub>；</p><p >　　（2）斜面体<i>A</i>对物体<i>B</i>的支持力做的功<i>W</i><sub>2</sub>；</p><p >　　（3）斜面体<i>A</i>对物体<i>B</i>的摩擦力做的功<i>W</i><sub>3</sub>；</p><p >　　（4）斜面体<i>A</i>对物体<i>B</i>的合力做的功<i>W</i><sub>4</sub>.</p>",
+      "answers": [],
+      "correctAnswer": "【答案】（1）<i>F</i><i>L</i>；（2）<i>m</i><i>g</i><i>L</i>sin<i>θ</i>cos<i>θ</i>；（3）－<i>m</i><i>g</i><i>L</i>sin<i>θ</i>cos<i>θ</i>；（4）0",
+      "details": "<p >　　【解析】（1）力<i>F</i>与在力的方向上的位移为<i>L</i>，故力<i>F</i>对斜面体<i>A</i>做的功为：<i>W</i><sub>1</sub>＝<i>F</i><i>L</i></p><p >　　（2）根据运动的情况对<i>B</i>进行受力分析，如图所示：</p><div class='imgback baguetteBoxOne right-pic' style='width: 300px'>            <img src='books/physics/images/pages/4-1-8.jpg'          style='width: 280px'></div><p >　　可知，<i>A</i>对<i>B</i>的支持力<i>F</i><sub><i>N</i></sub>与位移<i>L</i>的夹角为${{90^o} - \\theta }$，</p><p >　　又由平衡条件得：<i>F</i><sub><i>N</i></sub>＝<i>m</i><i>g</i>cosθ，</p><p >　　故：<i>W</i><sub>2</sub>＝<i>F</i><sub><i>N</i></sub><i>L</i>cos(90<sup>o</sup>－<i>θ</i>)＝<i>m</i><i>g</i><i>L</i>sin<i>θ</i>cos<i>θ</i></p><p >　　（3）由图还可知，<i>A</i>对<i>B</i>的摩擦力<i>F</i><sub><i>f</i></sub>与位移<i>L</i>的夹角为180<sup>o</sup>－<i>θ</i>，</p><p >　　又由平衡条件得：<i>F</i><sub><i>f</i></sub>＝<i>m</i><i>g</i>sin<i>θ</i>，</p><p >　　故：<i>W</i><sub>3</sub>＝<i>F</i><sub><i>f</i></sub><i>L</i>cos(180<sup>o</sup>－θ)=－<i>m</i><i>g</i><i>L</i>sin<i>θ</i>cos<i>θ</i></p><p >　　（4）<i>A</i>对<i>B</i>的作用力可以理解为支持力和摩擦力的合力，而这个合力的大小与<i>B</i>的重力相等，方向相反，即竖直向上，故该合力没有做功，即<i>W</i><sub>4</sub>=0．（或：<i>W</i><sub>4</sub>＝<i>W</i><sub>2</sub>+<i>W</i><sub>3</sub>＝0）</p>",
+      "summary": "【小结】1．恒力做功的计算，一定要审清题意要求的是哪个力做功，再按照这个力寻找其位移，确定力与位移的夹角；2．按照功的公式${W = Fs\\cos \\alpha }$计算时，当出现${\\cos ({180^o} - \\theta )}$，则依据数学的三角知识得到：cos(180 <sup>o</sup>－θ)=－cos <i>θ</i>3．计算合力做功，既可根据功的公式计算，也可以把构成合力的分力做的功的代数和求得．<div class='flash center-pic'><flash src='books/physics/flash/gzWLdh0227恒力功的计算.swf' width='600px' height='400px'></flash><span>恒力功的计算</span></div>"
+    }
+  ]
+}

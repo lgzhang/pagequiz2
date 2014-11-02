@@ -1,0 +1,13 @@
+{
+  "title":"随堂训练",
+  "example": [   
+     {
+      "question": "2．（C层次）风力发电是一种环保的电能获取方式．右图为某风力发电站外观图．设计每台风力发电机的功率为40kW，实验测得风的动能转化为电能的效率约为20%，空气的密度是1.29kg/m<sup>3</sup>，当地水平风速约为10m/s，问风力发电机的叶片长度约为多少才能满足设计要求？<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-8-3.jpg' style='width: 240px'></div>",
+      "answers":[],
+      "correctAnswer":[],
+      "details": "解答：可设想在每台风力发电机前有一半径为叶片长度的圆柱体，在t时间内，有长为l=υt的一段风吹过发电机．风的动能：\\({E_k} = \\dfrac{1}{2}m{\\upsilon ^2}\\)①t时间内风通过叶片长度为半径的圆的空气质量为m=ρV=ρπR2υt②<br/>${P = \\dfrac{{\\eta {E_k}}}{t} = \\dfrac{1}{2}\\rho \\pi R{}^2\\upsilon {}^3\\eta }$③<br/>由①②③得：R≈10m．",
+      "summary":""
+    }
+  ]
+
+}

@@ -1,0 +1,16 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例3：（C层次）划船速度为<i>υ</i><sub>1</sub>的小船在宽<i>d</i>、水速为<i>υ</i><sub>2</sub>的小河中，由一岸划向另一岸，要想渡河的位移最短应怎样划？下列说法正确的是（　　）",
+      "answers":[ "A．无论如何，只有垂直于河岸划船，位移最短",
+                  "B．当<i>υ</i><sub>1</sub>＞<i>υ</i><sub>2</sub>时，船的航行方向与河岸垂直，位移最短，等于<i>d</i>", 
+                  "C．当<i>υ</i><sub>1</sub>＜<i>υ</i><sub>2</sub>时，划船方向向下且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合${\\theta  = \\arcsin \\dfrac{{\\upsilon {}_1}}{{\\upsilon {}_2}}}$，位移最短",
+                  "D．当<i>υ</i><sub>1</sub>＜<i>υ</i><sub>2</sub>时，划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合${\\theta  = {90^o} + \\arcsin \\dfrac{{\\upsilon {}_1}}{{\\upsilon {}_2}}}$，位移最短"
+                  ],
+      "correctAnswer": "2 4",
+      "details": "答案：BD <br/>解析：河的最短距离是河宽，但要实现这一最短的位移，必须满足<i>υ</i><sub>1</sub>＞<i>υ</i><sub>2</sub>，划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合${\\theta  = {90^o} + \\arcsin \\dfrac{{\\upsilon {}_2}}{{\\upsilon {}_1}}}$，如图所示:<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/6-4.jpg' style='width: 240px'></div><p >当<i>υ</i><sub>1</sub>＜<i>υ</i><sub>2</sub>时，这时小船不可能垂直渡河，但仍然存在最小的渡河位移（比河宽大）．求解的方法是：以河水速度矢量的前端为圆心，以小船划速大小为半径作一个圆，做出发点与圆的切线．此切线的方向即为渡河位移最短的方向，如图所示．由此可判定划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合（即船头指向与合速度方向垂直），位移最短．<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/6-5.jpg' style='width: 240px'></div></p>",
+      "summary": "<p >（1）当<i>υ</i><sub>1</sub>＞<i>υ</i><sub>2</sub>时，划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合${\\theta  = {90^o} + \\arcsin \\dfrac{{\\upsilon {}_2}}{{\\upsilon {}_1}}}$，则船垂直于岸航行；</p><p >（2）当<i>υ</i><sub>1</sub>=<i>υ</i><sub>2</sub>时，划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角几乎接近于180<sup>o</sup>，位移几乎接近于河宽；</p><p >（3）当<i>υ</i><sub>1</sub>＜<i>υ</i><sub>2</sub>时，划船方向向上且<i>υ</i><sub>1</sub>与<i>υ</i><sub>2</sub>的夹角要符合\\(\theta  = {90^o} + \\arcsin \dfrac{{\\upsilon {}_1}}{{\\upsilon {}_2}}\\)，位移最短．"
+    }
+  ]
+}

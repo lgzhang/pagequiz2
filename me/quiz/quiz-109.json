@@ -1,0 +1,12 @@
+﻿  {
+  "title":"随堂训练",
+  "example": [
+    {
+      "question": "<p >【经典互动2】（B层次）如图所示，一个竖直放置的圆锥筒可绕其中心<i>O</i><i>O</i><i>′</i>转动，筒内壁粗糙，筒口半径和筒高分别为<i>R</i>和<i>H</i>，筒内壁<i>A</i>点的高度为筒高的一半．内壁上有一质量为<i>m</i>的小物块．求：</p><p >①当筒不转动时，物块静止在筒壁<i>A</i>点受到的摩擦力和支持力的大小；</p><p >②当物块在<i>A</i>点随筒做匀速转动，且其受到的摩擦力为零时，筒转动的角速度．</p><div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/38-2.jpg' style='width: 240px'></div>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "<h5>解答：</h5><p >①设内壁与竖直线的夹角为<i>θ</i>．当筒不转动时，物块静止在筒壁<i>A</i>点时受到的重力、摩擦力和支持力三力作用而平衡，由平衡条件得：</p><p >摩擦力的大小：\\({F_f} = mg\\cos \\theta  = \\dfrac{{mgH}}{{\\sqrt {{H^2} + {R^2}} }}\\)</p><p >支持力的大小：\\({F_N} = mg\\sin \\theta  = \\dfrac{{mgR}}{{\\sqrt {{H^2} + {R^2}} }}\\)</p><p >②当物块在<i>A</i>点随筒做匀速转动，且其所受到的摩擦力为零时，物块在筒壁<i>A</i>点时受到的重力和支持力作用，它们的合力提供向心力，设筒转动的角速度为<i>ω</i>．</p><p >由牛顿第二定律有：\\(mg\\tan \\theta  = m{\\omega ^2} \\cdot \\dfrac{R}{2}\\) </p><p >由几何关系得：\\(\\tan \\theta  = \\dfrac{R}{H}\\)</p><p >联立以上两式解得：\\(\\omega  = \\dfrac{{\\sqrt {2gH} }}{R}\\)</p>",
+      "summary":""
+    }
+  ]
+ }

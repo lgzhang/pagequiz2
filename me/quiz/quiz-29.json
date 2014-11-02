@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "例1：（B层次）将一小球从距地面30m高处以5m/s的初速度竖直下抛，取<i>g</i>=10m/s<sup>2</sup>，求：</p><p >（1）小球到达地面时的速度；</p><p >（2）小球下落所用的时间．</p><p >思路剖析：</p><div class='imgback baguetteBoxOne center-pic' style='width:500px'><img src='books/physics/images/pages/10-1.jpg' style='width: 480px'></div>",
+      "answers":[],
+      "correctAnswer": "",
+      "details": "答案：（1）25m/s；（2）2s． <br/>解析：<p >（1）由${{\\upsilon _t}^2 - {\\upsilon _0}^2 = 2gh}$得${{\\upsilon _t} = \\sqrt {\\upsilon _0^2 + 2gh}  = \\sqrt {{5^2} + 2 \\times 10 \\times 30} m = 25m/s}$</p><p >（2）由${{\\upsilon _t} = {\\upsilon _0} + gt}$得${t = \\dfrac{{{\\upsilon _t} - {\\upsilon _0}}}{g} = \\dfrac{{25 - 5}}{{10}}s = 2{\\rm{s}}}$</p>",
+      "summary": ""
+    }
+  ]
+}

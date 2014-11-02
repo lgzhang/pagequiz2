@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【例1】（B层次）如图，一个质量<i>m</i>=1kg的小物体在<i>A</i>点由静止开始，在一水平恒拉力作用下沿粗糙地面向右做匀加速直线运动，运动<i>s</i><sub>1</sub>=4m到<i>B</i>点时撤去该恒拉力，小物体再滑<i>s</i><sub>2</sub>=2m到<i>C</i>点停止．已知小物体与地面间的动摩擦因数为<i>μ</i>=0.2，<i>g</i>=10m/s<sup>2</sup>．求：<br/>（1）全程滑动摩擦力做的功；<br/>（2）恒拉力的大小；<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-3-5.jpg' style='width: 240px'></div>",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "【解析】物体受力分析如图所示．<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/pages/4-3-6.jpg' style='width: 240px'></div>（1）根据功的公式，得全程滑动摩擦力做的功为：${{W_f} =  - \\mu mg({s_1} + {s_2}) =  - 0.2 \\times 1 \\times 10 \\times 6J =  - 12J}$①<br/>（2）物体在末撤去恒拉力的过程中，根据动能定理，有：${F{s_1} - \\mu mg{s_1} = \\dfrac{1}{2}m{\\upsilon _1}^2 - 0}$②<br/>物体在撤去恒拉力的过程中，根据动能定理，有：${ - \\mu mg{s_2} = 0 - \\dfrac{1}{2}m{\\upsilon _1}^2}$ ③<br/>②+③得：${Fs{}_1 - \\mu mg(s{}_1 + s{}_2) = 0 - 0}$④<br/>得：${F = 3N}$<br/>【答案】（1）－12J；（2）3N．",
+      "summary": "【小结】1．物体运动有两上过程以上时，要分别写出各个阶段中各个力做的功，对各个阶段可运用动能定理列式计算．<br/>2．当把各阶段的式子合成时，我们发现作用在物体上的各个力做功的代数和等于最后的动能减去最初的动能．"
+    }
+  ]
+}

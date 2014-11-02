@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": "【经典互动3】（C层次）如图所示为高山滑雪飞行距离比谁最远的比赛，质量<i>m</i>=60kg的高山滑雪运动员，从<i>A</i>点由静止开始沿雪道滑下，从<i>B</i>点水平飞出后又落在与水平面成倾角<i>θ</i>=37<sup>o</sup>的斜坡上<i>C</i>点．己知<i>A</i><i>B</i>两点间的高度差为<i>h</i>=25m，<i>B</i><i>、</i><i>C</i>两点间的距离为<i>s</i>=75m，（<i>g</i>取l0m/s<sup>2</sup>，sin37<sup>o</sup>=0.6，cos37<sup>o</sup>=0.8），求：<div class='imgback baguetteBoxOne center-pic' style='width: 170px'>            <img src='books/physics/images/pages/4-9-4.jpg'          style='width: 150px'></div><p >（1）运动员从<i>B</i>点飞出时的速度<i>υ</i><sub><i>B</i></sub>的大小；</p><p >（2）运动员从<i>A</i>到<i>B</i>过程中克服摩擦力所做的功．</p>",
+      "answers": [],
+      "correctAnswer": "答案：（1）20m／s；（2）3000J",
+      "details": "解析：（1）设由<i>B</i>到<i>C</i>平抛运动的时间为<i>t</i>．对运动员在斜面平抛的情景作如图：<div class='imgback baguetteBoxOne center-pic' style='width: 170px'> <img src='books/physics/images/pages/4-9-5.jpg' style='width: 150px'></div><p > 在竖直方向上，有：\\(s \\cdot \\sin {37^o} = \\frac{1}{2}g{t^2}\\)------------①</p><p > 在水平方向上，有：\\(s \\cdot \\cos {37^o} = {\\upsilon _B}t\\)--------------②</p><p > ②<sup>2</sup>/①得：\\[{\\upsilon _0} = \\sqrt {\\frac{{gs \\cdot \\cos {}^2{{37}^o}}}{{2\\sin {{37}^o}}}}  = 20m/s\\] </p><p >（2）运动员从<i>A</i>到<i>B</i><i>的</i>过程中，设摩擦阻力做功为<i>Ｗ</i><sub><i>f</i></sub>，由动能定理，有：　\\(mg{h_{AB}} + {W_f} = \\frac{1}{2}m{\\upsilon _B}^2 - 0\\)</p><p ><i>　</i><i>　</i><i></i></p><p >代入数据解得：<i>W</i><sub><i>f</i></sub> ＝-3000J</p><p >所以运动员克服摩擦力所做的功为3000J．</p><p >答案：（1）20m／s；（2）3000J</p></div>",
+      "summary": ""
+    }
+  ]
+}

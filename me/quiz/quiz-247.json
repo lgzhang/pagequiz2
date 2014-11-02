@@ -1,0 +1,24 @@
+﻿{
+  "title":"随堂训练",
+  "choices": [{
+      "question": "1．（B层次）平直公路是行驶中的汽车制动后滑行一段距离而停下；流星在夜空中坠落并发出明亮的火焰；降落伞在空中匀速下降；条形磁铁向下穿过闭合线圈过程中做加速运动，线圈中产生电流．上述不同现象中所包含的相同的物理过程是（　　）",
+      "answers": ["A．物体克服阻力做功",
+      "B．物体动能转化为其他形式的能量",
+      "C．物体势能转化为其他形式的能量",
+      "D．物体机械能转化为其他形式的能量"],
+      "correctAnswer": "1 4",
+      "details": "解析：从上述现象中看到物体都受到阻力作用，物体克服阻力做功，而这样的做功形式使有的物体的动能转化为其他形式的能（如汽车）；使有的物体的重力势能转化为其他形式的能（如降落伞）；有的是部分机械能转化为其他形式的能（如流星、条形磁铁）．但都统统属于机械能转化为其他形式．"
+    },
+
+    {
+      "question": "2．（C层次）如图所示，木块A放在木板B的左端，用恒力F将木块A拉到板B的右端.第一次将B固定在地面上，F做功为W<sub>1</sub>，系统产生的热量为Q<sub>1</sub>；第二次让B可以在光滑水平地面上自由滑动，F做功为W<sub>2</sub>，系统产生的热量为Q<sub>2</sub>，则有（　　）<div class='imgback baguetteBoxOne right-pic' style='width:260px'><img src='books/physics/images/quiz/quiz-82-c-1.png' style='width:240px'></div>",
+      "answers": ["A．W<sub>1</sub>＝W<sub>2</sub>，Q<sub>1</sub>＝Q<sub>2</sub>", 
+      "B．W<sub>1</sub> < W<sub>2</sub>，Q<sub>1</sub>＝Q<sub>2</sub>", 
+      "C．W<sub>1</sub> < W<sub>2</sub>，Q<sub>1</sub> < Q<sub>2</sub>",
+      "D．W<sub>1</sub>＝W<sub>2</sub>，Q<sub>1</sub> < Q<sub>2</sub>"],
+      "correctAnswer": "2",
+       "details": "解析：设B板长度为L，A、B之间的摩擦力大小为f．<br/>第一次B固定时，力F对物体A做的功为：W<sub>1</sub>=FL<br/>物体A克服滑动摩擦力做的功为：WfA＝fL<br/>物体B的对地位移为零，所以摩擦力对物体B做的功WfB为零，故滑动摩擦力对系统做的功为：Wf1＝－WfA＋WfB＝－fL<br/>根据能量转化和守恒定律可得，第一次产生的热量为：Q<sub>1</sub>＝fL<br/>第二次物体B可在光滑水平地面上运动，在A从B的左端向右端滑动的过程中，由于B物体在滑动摩擦力的作用下要向右加速，所以物体A滑到物体B右端时，其对地位移大于B的长度L，所以有：W<sub>2</sub>＞FL<br/>而滑动摩擦力对系统做的功等于滑动摩擦力与相对位移的乘积，所以由能量转化和守恒定律可得，第二次产生的热量Q<sub>2</sub>＝fL<br/>"
+    }
+  ]
+
+}

@@ -1,0 +1,12 @@
+{
+  "title":"例题",
+  "example": [
+    {
+      "question": "3．（B层次）已知引力常量<i>G</i>=6.67(10<sup>-</sup><sup>1</sup><sup>1</sup>N(m<sup>2</sup>/kg<sup>2</sup>，地球表面重力加速度<i>g</i>=9.8m/s<sup>2</sup>，地球半径为<i>R</i>=6.4×10<sup>6</sup>m，则地球质量多大？",
+      "answers": [],
+      "correctAnswer": "",
+      "details": "<p >答案：${6.0 \\times {10^{24}}{\\rm{kg}}}$</p><p >解析：在地球表面，引力等于重力${G\\dfrac{{Mm}}{{{R^2}}} = mg}$    得地球质量${M = \\dfrac{{g{R^2}}}{G} = \\dfrac{{9.8 \\times {{(6.4 \\times {{10}^6})}^2}}}{{6.67 \\times {{10}^{ - 11}}}}{\\rm{kg}}}$${ = 6.0 \\times {10^{24}}{\\rm{kg}}}$</p>",
+      "summary": ""
+    }
+  ]
+}

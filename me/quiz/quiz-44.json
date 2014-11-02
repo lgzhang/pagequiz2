@@ -1,0 +1,11 @@
+﻿{
+  "title":"随堂训练",
+  "counting": [
+    {
+      "question": "3．（B层次）如图，一架飞机运载救灾物资飞往灾区，到灾区上空时，距离地面的高度控制在h=180m．为了在飞机与目标P的水平距离s=480m的地方投下物资而准确投中，不计空气阻力，g=10m/s2，则飞机的速度应控制为多少进行匀速飞行？<div class='imgback baguetteBoxOne center-pic' style='width:260px'><img src='books/physics/images/quiz/quiz-1-4-1.png' style='width: 240px'></div>",
+      "correctAnswer": "解析：设飞机飞行的速度为υ0，投下的物资即以飞机飞行时的速度为初速度做平抛运动．根据平抛运动的规律．<br/>在竖直方向上，有：${h = \\dfrac{1}{2}gt{}^2}$ ① <br/>在水平方向上，有：${s = {\\upsilon _0}t}$ ② <br/>①②联立得：υ0=80m/s <br/><b>答案：</b>80m/s",
+      "details": ""
+    }
+  ]
+
+}

@@ -1,0 +1,23 @@
+﻿{
+  "title":"随堂训练",
+  "choices": [{
+      "question": "1．（B层次）汽车上坡时，司机一般都将变速档换到低速档位上，这样做主要是为了（    ）",
+      "answers": ["A．节省燃料",
+      "B．使汽车获得较大的功率",
+      "C．使汽车获得较大的牵引力",
+      "D．避免因车速过大而发生危险"],
+      "correctAnswer": "3",
+      "details": "解析：根据P＝Fυ，在汽车输出最大功率的条件下，当汽车的速度调小时，汽车的牵引力变大，才能顺利爬上坡．"
+    },
+
+    {
+      "question": "2．（B层次）如图，在体育课上进行跳绳测试时，质量为50kg的一位女生取得了每分钟跳180次的好成绩.假设她每跳一次的时间相等，每次跳起的平均高度为5cm，则她跳绳时克服自身重力做功的平均功率最接近于（　　）<div class='imgback baguetteBoxOne right-pic' style='width:160px'><img src='books/physics/images/quiz/quiz-86-c-1.png' style='width:140px'></div>",
+      "answers": ["A．7.5W", 
+      "B．75W", 
+      "C．250W",
+       "D．4500W"],
+      "correctAnswer": "2",
+       "details": "解析：每次跳跃女生克服自身的重力做功W＝mgh＝25J，她跳绳时的平均功率即为她在t=60s内180次克服重力做的总功，则跳一次的时间\\(t = \\dfrac{{60}}{{180}}s = \\dfrac{1}{3}s\\)，所以她跳绳时的平均功率\\(P = \\dfrac{W}{t} = \\dfrac{{25}}{{1/3}}{\\rm{W}} = 75{\\rm{W}}\\)．"
+    }
+  ]
+}

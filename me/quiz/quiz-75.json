@@ -1,0 +1,12 @@
+﻿{
+  "title":"例题",
+  "example": [
+    {
+      "question": " 3．（C层次）如图，直径为\\(d\\)的圆筒绕中心轴做匀速圆周运动，一枪发射的子弹速度为 <i>υ</i>，并沿直径匀速穿/过圆筒．若子弹穿出后在圆筒上只留下一个弹孔，则圆周运动的角速度为多少？<div class='baguetteBoxOne center-pic' style='width: 240px'><img src='books/physics/images/pages/26-2.jpg' style='width: 220px'></div>",
+      "answers": [],
+      "correctAnswer": "1",
+      "details": " 解答：子弹穿过圆筒以后做匀速直线运动，当它沿直径方向向前再次到达圆筒壁时，若原来的弹孔也刚好运动到此处，则圆筒上只会留下一个弹孔．在子弹运动位移等于\\(d\\)的时间内,圆筒转过的角度为\\(\\theta  = 2n\\pi  + \\pi \\)(n=1，2，3，…)．有：\\(\\dfrac{d}{\\upsilon } = \\dfrac{{2n\\pi  + \\pi }}{\\omega }\\)，解得角速度\\(\\omega  = \\dfrac{{2n\\pi  + \\pi }}{d}\\upsilon \\)(n=1，2，3，…)． ",
+      "summary": ""
+    }
+  ]
+}
